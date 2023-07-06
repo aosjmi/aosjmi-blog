@@ -1,0 +1,24 @@
+body {
+  margin: auto;
+  padding: 10px;
+  max-width: 720px;
+  text-align: left;
+  background-color: #fff;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.1;
+  color: rgb(27, 26, 26);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+blockquote {
+  border-left: 3px solid #999;
+  color: rgb(71, 71, 71);
+  padding: 2px 0px 2px 20px;
+  margin: 0px;
+  font-style: italic;
+}
