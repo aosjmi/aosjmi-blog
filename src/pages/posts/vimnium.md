@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Vimniumのキー割り当て"
+title: "Vimiumのキー割り当て"
 date: "2023-07-14"
 ---
 
